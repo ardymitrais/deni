@@ -3,7 +3,15 @@ ardy
 matthew
 januar
 inez
+<<<<<<< HEAD
+dona
+rendi
+=======
 
 deny 2
+<<<<<<< HEAD
 
 deny 3
+=======
+>>>>>>> 522f0eae9f70115f5d80e8767576e719b630450a
+>>>>>>> 08adaa46a0b47ac51ca8b5b57685d5f055c82362
